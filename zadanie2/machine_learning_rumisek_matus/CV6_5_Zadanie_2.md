@@ -12,7 +12,7 @@ Dataset Breast Cancer Wisconsin (Diagnostic) obsahuje údaje získané z digital
 
 Pridajte do kódu ďalší model strojového učenia (ľubovoľný), a taktiež definujte parametre a ich hodnoty pre Grid Search.
 
-**Uveďte aký ML model a hodnoty jeho parametrov ste použili:**
+**Uveďte aký ML model a hodnoty jeho parametrov ste použili:**     
 
 #TODO - Popis
 
